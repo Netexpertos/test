@@ -33,7 +33,7 @@ const express = require("express");
 const server = express();
 
 server.get("/", function(req, res){
-    res.send("<h1>Hola mundo desde express y nodejs</h1>");
+    res.send("<h1>Hola mundo desde express y nodejs git desde  cero</h1>");
 });
 server.listen(3000, function(){
     console.log("Server express 3000".red);
