@@ -1,0 +1,23 @@
+{
+  "name": "holamundo",
+  "version": "1.0.0",
+  "description": "Un curso de node js",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.1",
+    "install": "^0.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "Desarrollo": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "curso",
+    "español"
+  ],
+  "author": "Cristian Collazos",
+  "license": "ISC"
+}
